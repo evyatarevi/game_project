@@ -1,0 +1,11 @@
+td{
+    border: solid 1px black;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+img{
+    width: 100%;
+    height: 100%;
+    visibility: hidden;
+}
